@@ -1,0 +1,22 @@
+{
+	"id": 1,
+	"type":"Non-Profit",
+	"categories":"General",
+	"name":"Code for America",
+	"nickname":"Code for America",
+	"location":"San Francisco, CA",
+	"weblink":"http:\/\/codeforamerica.org\/",
+	"numemp":"52",
+	"people":"Jen Pahlka, Shona Brown, Nigel Jacob, John Lilly, Stacy Donohue, Andrew McLaughlin, Tim O'Reilly, Eric Ries, Clay Johnson","twitterH":"@codeforamerica","followers":"27724",
+	"affil":null,"relatedto":"BetaNYC, Civic Commons",
+	"poruc":"OpenPlans",
+	"fundingR":"Omidyar Network:null; John S. and James L. Knight Foundation:null; Google:1500000; 1st Source Bank:null; Accela:null; Akonadi Foundation:null; Akron Metropolitan Area Transportation Study:null; AT&T:null; Blue Ridge Foundation New York:null; Cerner Corporation:null; City of Akron:null; Community Foundation of St. Joseph County:null; Conservancy of Cuyahoga Valley National Park:null; Ewing Marion Kauffman Foundation:null; Google Fiber:null; H&R Block Foundation:null; Hall Family Foundation:null; Hallmark Cards Inc.:null; Judd Leighton Foundation:null; Kapor Center for Social Impact:null; Laura and John Arnold Foundation:null; Louisville Bar Foundation:null; Memorial Health System:null; Metro Parks:null; Neighborly:null; Ohio and Erie Canalway Coalition:null; Pandora Media:null; Philanthropic Ventures Foundation:null; Rita Allen Foundation:null; Spring Nextel:null; St. Joseph Regional Medical Center:null; Teachers Credit Union:null; The Downtown Project:null; Vodafone Americas Foundation:null; William H. Donner Foundation:null; Blude Ridge Foundation New York:null; California Healthcare Foundation:null; Cascadilla Fund:null; Cutts Foundation: null; James Irvine Foundation:null; Reid Hoffman Foundation:null; Kaphan Foundation:null; Bluehost with the support of Hari Ravichandran:null; Ashoka Foundation:null; City of Sacramento:null; Edwards Family Fund:null; Elbaz Family Foundation:null; Robert Glushko and Pamela Samuelson:null; Goldhirsh Foundation:null; Harik Fund:null; William and Weslie Janeway:null; Vaughn Koch:null; Dana Le and Rob Mee:null; John D. and Catherine T. MacArthur Foundation:null; Sundar PIchai:null; Geoffrey and Andrea Ralsoton:null; Redlich Horowitz Foundation:null; Shustek Dubinsky Family Philanthropic Fund:null; Hal Varian:null; Eric Ries:null; Craig Newmark Philanthropic Fund:null; Microsoft Corporation:null; Total:2175855",
+	"yearFR":"2011",
+	"investmentR":null,
+	"yearIR":null,
+	"rande":"Revenue:2961713; Expenses:3003561",
+	"randeY":"2011",
+	"grantsG":"334000",
+	"yearG":"2012",
+	"golr":"1"
+}
